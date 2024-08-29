@@ -1,10 +1,11 @@
 # A naive classifier for detecting face mask
 As a demo to show how to finetune a CV task.
-  
+
+<br/>
 The UI is shown below:
 
 <p align="center">
-  <img src="rs/demo.gif" alt="UI demo" />
+  <img src="rs/demo.png" alt="UI demo" />
 </p>
 
 <br/>
